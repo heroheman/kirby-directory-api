@@ -1,12 +1,13 @@
 const express = require('express');
 const helmet = require('helmet');
 const cors = require('cors');
+const fs = require('fs');
 
 const app = express();
 app.use(helmet());
 app.use(cors());
 
-const dataPlugins = require('./json/plugins.json')
+// const dataPlugins = require('./json/plugins.json')
 
 const port = process.env.KDAPIPORT || 3000;
 
@@ -23,6 +24,9 @@ app.use(function (req, res, next) {
 });
 
 app.get('/api/plugins', (req, res) => {
-    res.send(JSON.stringify(dataPlugins));
+    // res.send(JSON.stringify(dataPlugins));
+    fs.readFile('./json/plugins.json', 'utf8', (err, data) => {
+        res.send(data)
+    })
 })
 

@@ -7,12 +7,10 @@ const app = express();
 app.use(helmet());
 app.use(cors());
 
-// const dataPlugins = require('./json/plugins.json')
-
 const port = 63473;
 
 const server = app.listen(port, () => {
-  console.log('express server ready to serve. Port: ' + port);
+  console.log('Express server ready to serve. Port: ' + port + '. Bye.');
 });
 
 server.timeout = 1000 * 60 * 10; // 10 minutes

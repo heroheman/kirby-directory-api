@@ -23,7 +23,7 @@ app.use(function (req, res, next) {
     next();
 });
 
-app.get('/api/plugins', (req, res) => {
+app.get('/plugins', (req, res) => {
     // res.send(JSON.stringify(dataPlugins));
     fs.readFile('./json/plugins.json', 'utf8', (err, data) => {
         res.send(data)

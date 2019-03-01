@@ -9,10 +9,10 @@ app.use(cors());
 
 // const dataPlugins = require('./json/plugins.json')
 
-const port = process.env.KDAPIPORT || 3000;
+const port = 63473;
 
 const server = app.listen(port, () => {
-  console.log('express server ready to serve');
+  console.log('express server ready to serve. Port: ' + port);
 });
 
 server.timeout = 1000 * 60 * 10; // 10 minutes

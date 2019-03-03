@@ -21,8 +21,13 @@ app.use(function (req, res, next) {
     next();
 });
 
+app.get('/themes', (req, res) => {
+    fs.readFile('./json/themes.json', 'utf8', (err, data) => {
+        res.send(data)
+    })
+})
+
 app.get('/plugins', (req, res) => {
-    // res.send(JSON.stringify(dataPlugins));
     fs.readFile('./json/plugins.json', 'utf8', (err, data) => {
         res.send(data)
     })

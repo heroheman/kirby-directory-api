@@ -16,7 +16,6 @@ const port = 63473;
 
 const server = app.listen(port, () => {
   console.log('Express server ready to serve. Port: ' + port + '. Bye.');
-  // runCronFetch();
 });
 
 server.timeout = 1000 * 60 * 10; // 10 minutes
@@ -51,4 +50,9 @@ app.get('/themes', (req, res) => {
 app.get('/plugins', (req, res) => {
   const plugins = db.get('plugins');
   res.send(plugins);
+});
+
+app.get('/resetDatabase', (req, res) => {
+  runCronFetch()
+  res.send('reset it. btw. this should be removed')
 });

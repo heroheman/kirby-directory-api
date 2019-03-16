@@ -1154,58 +1154,6 @@
     },
     {
       "item_type": "themes",
-      "title": "HyperKirby",
-      "number": 183,
-      "id": 366385848,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/183",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://payhip.com/b/CgJm\r\n**Live demo** https://heyallan.com/hyperkirby\r\n\r\n> **A starter theme for Kirby CMS. For designers and developers. Highly functional structure, transparent design, and plenty of room for custom pages and plugins.**\r\n\r\n![screen shot 2018-10-03 at 16 01 26-fullpage](https://user-images.githubusercontent.com/2782385/46419357-a02fba80-c725-11e8-923f-fc4214813e87.png)",
-      "created_at": "2018-10-03T15:04:05Z",
-      "updated_at": "2018-10-04T09:11:25Z"
-    },
-    {
-      "item_type": "themes",
       "title": "Alpha / Shuffle",
       "number": 177,
       "id": 330838052,
@@ -1406,6 +1354,58 @@
     },
     {
       "item_type": "themes",
+      "title": "HyperKirby",
+      "number": 183,
+      "id": 366385848,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/183",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://payhip.com/b/CgJm\r\n**Live demo** https://heyallan.com/hyperkirby\r\n\r\n> **A starter theme for Kirby CMS. For designers and developers. Highly functional structure, transparent design, and plenty of room for custom pages and plugins.**\r\n\r\n![screen shot 2018-10-03 at 16 01 26-fullpage](https://user-images.githubusercontent.com/2782385/46419357-a02fba80-c725-11e8-923f-fc4214813e87.png)",
+      "created_at": "2018-10-03T15:04:05Z",
+      "updated_at": "2018-10-04T09:11:25Z"
+    },
+    {
+      "item_type": "themes",
       "title": "Showcase",
       "number": 154,
       "id": 261837442,
@@ -1458,6 +1458,50 @@
     },
     {
       "item_type": "themes",
+      "title": "Ocelot",
+      "number": 156,
+      "id": 265561144,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/156",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** http://www.getkirby-themes.com/themes/ocelot\r\n**Live demo** https://ocelot-template.getsavvy.nl\r\n\r\n>**Versatile, well designed, responsive blog theme with a home page and a contact page. Great for small company websites or SEO pages.**\r\n\r\n![screen shot 2017-10-15 at 11 18 05-fullpage](https://user-images.githubusercontent.com/2782385/31583878-c7ec69fc-b19a-11e7-8516-0fdcf4dff96d.png)\r\n",
+      "created_at": "2017-10-15T10:20:59Z",
+      "updated_at": "2018-10-04T09:11:24Z"
+    },
+    {
+      "item_type": "themes",
       "title": "Way",
       "number": 157,
       "id": 270081982,
@@ -1502,6 +1546,58 @@
     },
     {
       "item_type": "themes",
+      "title": "Lightroom",
+      "number": 159,
+      "id": 277699463,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/159",
+      "labels": [
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://sellfy.com/p/8wAb\r\n**Live demo** http://lightroom.oliviergassies.fr\r\n\r\n> **LIGHTROOM is theme for photographers running with Kirby CMS and Bootstrap.**\r\n\r\n![screen shot 2017-11-29 at 10 18 57-fullpage](https://user-images.githubusercontent.com/2782385/33370217-cab52ab2-d4ee-11e7-838e-acaebb09ec69.png)\r\n",
+      "created_at": "2017-11-29T10:20:59Z",
+      "updated_at": "2018-10-04T09:11:24Z"
+    },
+    {
+      "item_type": "themes",
       "title": "intenss",
       "number": 164,
       "id": 286594011,
@@ -1542,6 +1638,182 @@
       ],
       "body": "**Details** https://creativemarket.com/starckio/2187479-intenss-for-Kirby-2-CMS\r\n**Live demo** http://t.starck.io/intenss\r\n\r\n> **intenss is a simple portfolio theme for the kirby CMS.**\r\n\r\n![screen shot 2018-01-07 at 19 48 40-fullpage](https://user-images.githubusercontent.com/2782385/34653463-fbf11636-f3e3-11e7-9aa3-be2b35f6e8df.png)\r\n",
       "created_at": "2018-01-07T19:50:51Z",
+      "updated_at": "2018-10-04T09:11:24Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Alpha",
+      "number": 155,
+      "id": 263593000,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/155",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://creativemarket.com/starckio/1907035-Alpha-for-Kirby-2-CMS\r\n**Live demo** http://t.starck.io/alpha\r\n\r\n> **Alpha is a simple blog/news theme for the kirby CMS.**\r\n\r\n![screen shot 2017-10-06 at 23 54 57-fullpage](https://user-images.githubusercontent.com/2782385/31301456-fdc869e0-aaf1-11e7-842e-0a90bb2fb367.png)\r\n",
+      "created_at": "2017-10-06T22:56:48Z",
+      "updated_at": "2018-10-04T09:11:24Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Landing",
+      "number": 175,
+      "id": 322587265,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/175",
+      "labels": [
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://awarethemes.com/themes/landing\r\n**Live demo** http://demo.awarethemes.com/landing\r\n\r\n> **Landing is a clean Kirby theme made with Bootstrap 4.**\r\n\r\n![screen shot 2018-05-13 at 12 45 34-fullpage](https://user-images.githubusercontent.com/2782385/39966983-34b4729e-56ac-11e8-93c8-340617061add.png)\r\n",
+      "created_at": "2018-05-13T11:50:35Z",
+      "updated_at": "2018-10-04T09:11:24Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Scribe",
+      "number": 173,
+      "id": 299050997,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/173",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://awarethemes.com/themes/scribe\r\n**Live demo** http://demo.awarethemes.com/scribe/\r\n\r\n> **Scribe is a minimal, clean and accessible theme for Kirby CMS.**\r\n\r\n![screen shot 2018-02-21 at 16 57 54-fullpage](https://user-images.githubusercontent.com/2782385/36494060-f469d192-1728-11e8-80f4-4d5a16c35cfb.png)\r\n\r\n",
+      "created_at": "2018-02-21T17:02:32Z",
+      "updated_at": "2018-10-04T09:11:24Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "KompactPRO",
+      "number": 171,
+      "id": 290861249,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/171",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://gumroad.com/l/kompactpro\r\n**Live demo** http://themes.yordanoff.net/kompactpro\r\n\r\n> **KompactPRO is the premium version of the most popular Kirby CMS Kotheme. Adjust everything from the Panel, no code editor needed! Live Panel Demo available. Built with a minimalistic approach in mind, so you can focus on the content.** \r\n\r\n![screen shot 2018-01-23 at 14 37 50-fullpage](https://user-images.githubusercontent.com/2782385/35281523-093d6aa6-004b-11e8-816d-a6a28bf856b1.png)\r\n",
+      "created_at": "2018-01-23T14:38:54Z",
       "updated_at": "2018-10-04T09:11:24Z"
     },
     {
@@ -1754,278 +2026,6 @@
       ],
       "body": "**Github** https://github.com/dreadnip/hipster\r\n**Live demo** https://sanderdlm.be/hipster\r\n\r\n> **Hipster is a free Kirby theme that was created for a concert venue but ultimately not used. Instead of discarding it I put it up as a free theme. Use it however you want.**\r\n\r\n![screenshot](https://user-images.githubusercontent.com/2782385/36549797-9243be74-17eb-11e8-9ab8-533ddf49b49d.png)\r\n",
       "created_at": "2018-02-22T16:16:13Z",
-      "updated_at": "2018-10-04T09:11:24Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Ocelot",
-      "number": 156,
-      "id": 265561144,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/156",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** http://www.getkirby-themes.com/themes/ocelot\r\n**Live demo** https://ocelot-template.getsavvy.nl\r\n\r\n>**Versatile, well designed, responsive blog theme with a home page and a contact page. Great for small company websites or SEO pages.**\r\n\r\n![screen shot 2017-10-15 at 11 18 05-fullpage](https://user-images.githubusercontent.com/2782385/31583878-c7ec69fc-b19a-11e7-8516-0fdcf4dff96d.png)\r\n",
-      "created_at": "2017-10-15T10:20:59Z",
-      "updated_at": "2018-10-04T09:11:24Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Lightroom",
-      "number": 159,
-      "id": 277699463,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/159",
-      "labels": [
-        {
-          "id": 331886384,
-          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
-          "name": "Bootstrap",
-          "color": "ffffff",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://sellfy.com/p/8wAb\r\n**Live demo** http://lightroom.oliviergassies.fr\r\n\r\n> **LIGHTROOM is theme for photographers running with Kirby CMS and Bootstrap.**\r\n\r\n![screen shot 2017-11-29 at 10 18 57-fullpage](https://user-images.githubusercontent.com/2782385/33370217-cab52ab2-d4ee-11e7-838e-acaebb09ec69.png)\r\n",
-      "created_at": "2017-11-29T10:20:59Z",
-      "updated_at": "2018-10-04T09:11:24Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Landing",
-      "number": 175,
-      "id": 322587265,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/175",
-      "labels": [
-        {
-          "id": 331886384,
-          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
-          "name": "Bootstrap",
-          "color": "ffffff",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://awarethemes.com/themes/landing\r\n**Live demo** http://demo.awarethemes.com/landing\r\n\r\n> **Landing is a clean Kirby theme made with Bootstrap 4.**\r\n\r\n![screen shot 2018-05-13 at 12 45 34-fullpage](https://user-images.githubusercontent.com/2782385/39966983-34b4729e-56ac-11e8-93c8-340617061add.png)\r\n",
-      "created_at": "2018-05-13T11:50:35Z",
-      "updated_at": "2018-10-04T09:11:24Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Scribe",
-      "number": 173,
-      "id": 299050997,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/173",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://awarethemes.com/themes/scribe\r\n**Live demo** http://demo.awarethemes.com/scribe/\r\n\r\n> **Scribe is a minimal, clean and accessible theme for Kirby CMS.**\r\n\r\n![screen shot 2018-02-21 at 16 57 54-fullpage](https://user-images.githubusercontent.com/2782385/36494060-f469d192-1728-11e8-80f4-4d5a16c35cfb.png)\r\n\r\n",
-      "created_at": "2018-02-21T17:02:32Z",
-      "updated_at": "2018-10-04T09:11:24Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "KompactPRO",
-      "number": 171,
-      "id": 290861249,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/171",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://gumroad.com/l/kompactpro\r\n**Live demo** http://themes.yordanoff.net/kompactpro\r\n\r\n> **KompactPRO is the premium version of the most popular Kirby CMS Kotheme. Adjust everything from the Panel, no code editor needed! Live Panel Demo available. Built with a minimalistic approach in mind, so you can focus on the content.** \r\n\r\n![screen shot 2018-01-23 at 14 37 50-fullpage](https://user-images.githubusercontent.com/2782385/35281523-093d6aa6-004b-11e8-816d-a6a28bf856b1.png)\r\n",
-      "created_at": "2018-01-23T14:38:54Z",
-      "updated_at": "2018-10-04T09:11:24Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Alpha",
-      "number": 155,
-      "id": 263593000,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/155",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/starckio/1907035-Alpha-for-Kirby-2-CMS\r\n**Live demo** http://t.starck.io/alpha\r\n\r\n> **Alpha is a simple blog/news theme for the kirby CMS.**\r\n\r\n![screen shot 2017-10-06 at 23 54 57-fullpage](https://user-images.githubusercontent.com/2782385/31301456-fdc869e0-aaf1-11e7-842e-0a90bb2fb367.png)\r\n",
-      "created_at": "2017-10-06T22:56:48Z",
       "updated_at": "2018-10-04T09:11:24Z"
     },
     {
@@ -2278,6 +2278,102 @@
     },
     {
       "item_type": "themes",
+      "title": "Simplicity",
+      "number": 147,
+      "id": 261836292,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/147",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://gumroad.com/l/fWbvT\r\n**Live demo** http://themes.kueker.net/simplicity\r\n\r\n> **Simplicity is a Kirby CMS Blog theme, built with a minimalistic approach in mind, so you can focus on the content.**\r\n\r\n![screen shot 2017-09-30 at 11 47 03-fullpage](https://user-images.githubusercontent.com/2782385/31045164-65367ada-a5d5-11e7-947a-f5b1fb92ffc1.png)\r\n",
+      "created_at": "2017-09-30T10:49:44Z",
+      "updated_at": "2018-10-04T09:11:23Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Kollapse",
+      "number": 145,
+      "id": 247054706,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/145",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://gumroad.com/l/kollapse\r\n**Live demo** http://themes.yordanoff.net/kollapse\r\n\r\n> **Kollapse is the most powerful multi-purpose, modern Kirby CMS theme you have ever met. It has features you have not seen in a Kirby theme before.**\r\n\r\n![home_ _kollapse_-_2017-08-01_13 33 51](https://user-images.githubusercontent.com/2782385/28825542-8e710d5c-76be-11e7-8466-0e0be8922ed4.png)\r\n",
+      "created_at": "2017-08-01T12:38:02Z",
+      "updated_at": "2018-10-04T09:11:23Z"
+    },
+    {
+      "item_type": "themes",
       "title": "Nextrun Theme",
       "number": 146,
       "id": 248649511,
@@ -2334,50 +2430,6 @@
       ],
       "body": "**Details** https://gumroad.com/l/UMwwt\r\n**Live demo** http://themes.kueker.net/nextrun\r\n\r\n> **Nextrun is built with a minimalistic approach in mind, so you can focus on the content.**\r\n\r\n![nextrun_home_-_2017-08-08_08 59 50](https://user-images.githubusercontent.com/2782385/29064723-cf2aeec2-7c21-11e7-92b7-f1883e108695.png)\r\n",
       "created_at": "2017-08-08T09:11:23Z",
-      "updated_at": "2018-10-04T09:11:23Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Simplicity",
-      "number": 147,
-      "id": 261836292,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/147",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://gumroad.com/l/fWbvT\r\n**Live demo** http://themes.kueker.net/simplicity\r\n\r\n> **Simplicity is a Kirby CMS Blog theme, built with a minimalistic approach in mind, so you can focus on the content.**\r\n\r\n![screen shot 2017-09-30 at 11 47 03-fullpage](https://user-images.githubusercontent.com/2782385/31045164-65367ada-a5d5-11e7-947a-f5b1fb92ffc1.png)\r\n",
-      "created_at": "2017-09-30T10:49:44Z",
       "updated_at": "2018-10-04T09:11:23Z"
     },
     {
@@ -2579,182 +2631,6 @@
       "body": "**Details** https://gumroad.com/l/rjXdY\r\n**Live demo** http://themes.kueker.net/brilliance\r\n\r\n> **Brilliance is a Kirby CMS Blog theme, built with a minimalistic approach in mind, so you can focus on the content.**\r\n\r\n![screen shot 2017-09-30 at 11 58 46-fullpage](https://user-images.githubusercontent.com/2782385/31045230-ce681102-a5d6-11e7-8beb-9e26e3b0a392.png)\r\n",
       "created_at": "2017-09-30T10:59:48Z",
       "updated_at": "2018-10-04T09:11:23Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Kollapse",
-      "number": 145,
-      "id": 247054706,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/145",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://gumroad.com/l/kollapse\r\n**Live demo** http://themes.yordanoff.net/kollapse\r\n\r\n> **Kollapse is the most powerful multi-purpose, modern Kirby CMS theme you have ever met. It has features you have not seen in a Kirby theme before.**\r\n\r\n![home_ _kollapse_-_2017-08-01_13 33 51](https://user-images.githubusercontent.com/2782385/28825542-8e710d5c-76be-11e7-8466-0e0be8922ed4.png)\r\n",
-      "created_at": "2017-08-01T12:38:02Z",
-      "updated_at": "2018-10-04T09:11:23Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Bits and Pieces Theme for Kirby",
-      "number": 120,
-      "id": 201831350,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/120",
-      "labels": [
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**GitHub** https://github.com/t94xr/Bits-and-Pieces-Theme-for-Kirby\r\n\r\n> **Theme Ported to Kirby from PicoCMS**\r\n\r\n![kirby_starterkit_home_-_2017-01-19_11 13 22](https://cloud.githubusercontent.com/assets/2782385/22104805/e7a41a82-de38-11e6-8da0-3e5748471952.png)\r\n\r\n![preview](https://cloud.githubusercontent.com/assets/2782385/22104792/dd9721ec-de38-11e6-86be-9cfbf99cb391.png)\r\n",
-      "created_at": "2017-01-19T11:18:17Z",
-      "updated_at": "2018-10-04T09:11:22Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Manna Theme",
-      "number": 119,
-      "id": 200842119,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/119",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 331886384,
-          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
-          "name": "Bootstrap",
-          "color": "ffffff",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://gumroad.com/l/gSPl\r\n**Live demo** http://webster.lv/manna_theme\r\n\r\n> **A multipurpose Kirby theme.**\r\n\r\n![homeen_manna_-_2017-01-15_01 45 30](https://cloud.githubusercontent.com/assets/2782385/21959626/7f742924-dac4-11e6-903b-43223df4fbfb.png)\r\n\r\n\r\n",
-      "created_at": "2017-01-15T01:48:19Z",
-      "updated_at": "2018-10-04T09:11:22Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Kompas",
-      "number": 121,
-      "id": 202344327,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/121",
-      "labels": [
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://gumroad.com/l/kompas\r\n**Live demo** http://themes.yordanoff.net/kompas\r\n\r\n> **Kompas is a modern Kirby theme, built to help you showcase your awesome visual projects with just a few clicks. It's suitable for everyone who appreciates good design.**\r\n> \r\n> **Video headers and photo grids are supported. It's easily customizable and its well structured SCSS will allow you to change fonts and colors with a single line of code.**\r\n\r\n![kompas home](https://cloud.githubusercontent.com/assets/2782385/22178264/ad216142-e029-11e6-96b2-21c1fc126d3a.png)\r\n",
-      "created_at": "2017-01-21T22:35:17Z",
-      "updated_at": "2018-10-04T09:11:22Z"
     },
     {
       "item_type": "themes",
@@ -3166,6 +3042,130 @@
     },
     {
       "item_type": "themes",
+      "title": "Bits and Pieces Theme for Kirby",
+      "number": 120,
+      "id": 201831350,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/120",
+      "labels": [
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**GitHub** https://github.com/t94xr/Bits-and-Pieces-Theme-for-Kirby\r\n\r\n> **Theme Ported to Kirby from PicoCMS**\r\n\r\n![kirby_starterkit_home_-_2017-01-19_11 13 22](https://cloud.githubusercontent.com/assets/2782385/22104805/e7a41a82-de38-11e6-8da0-3e5748471952.png)\r\n\r\n![preview](https://cloud.githubusercontent.com/assets/2782385/22104792/dd9721ec-de38-11e6-86be-9cfbf99cb391.png)\r\n",
+      "created_at": "2017-01-19T11:18:17Z",
+      "updated_at": "2018-10-04T09:11:22Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Manna Theme",
+      "number": 119,
+      "id": 200842119,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/119",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://gumroad.com/l/gSPl\r\n**Live demo** http://webster.lv/manna_theme\r\n\r\n> **A multipurpose Kirby theme.**\r\n\r\n![homeen_manna_-_2017-01-15_01 45 30](https://cloud.githubusercontent.com/assets/2782385/21959626/7f742924-dac4-11e6-903b-43223df4fbfb.png)\r\n\r\n\r\n",
+      "created_at": "2017-01-15T01:48:19Z",
+      "updated_at": "2018-10-04T09:11:22Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Kompas",
+      "number": 121,
+      "id": 202344327,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/121",
+      "labels": [
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://gumroad.com/l/kompas\r\n**Live demo** http://themes.yordanoff.net/kompas\r\n\r\n> **Kompas is a modern Kirby theme, built to help you showcase your awesome visual projects with just a few clicks. It's suitable for everyone who appreciates good design.**\r\n> \r\n> **Video headers and photo grids are supported. It's easily customizable and its well structured SCSS will allow you to change fonts and colors with a single line of code.**\r\n\r\n![kompas home](https://cloud.githubusercontent.com/assets/2782385/22178264/ad216142-e029-11e6-96b2-21c1fc126d3a.png)\r\n",
+      "created_at": "2017-01-21T22:35:17Z",
+      "updated_at": "2018-10-04T09:11:22Z"
+    },
+    {
+      "item_type": "themes",
       "title": "Rosemary Blog Theme",
       "number": 133,
       "id": 229010941,
@@ -3302,78 +3302,6 @@
       ],
       "body": "**Details** http://www.getkirby-themes.com/themes/anchor-theme-for-kirby-cms\n**Live demo** http://anchor-theme.com\n\n> **Anchor is a fully-featured Kirby CMS theme that works equally well for blogs, magazines, stores, portfolios, product showcases, marketing sites and more.**\n\n![anchor_for_kirby_cms_-_2016-09-16_10 38 34](https://cloud.githubusercontent.com/assets/2782385/18581772/f1e6cf68-7bf9-11e6-9f90-4bd6b6adfd41.png)\n",
       "created_at": "2016-09-16T09:40:28Z",
-      "updated_at": "2018-10-04T09:11:21Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "kirby-books",
-      "number": 107,
-      "id": 183300335,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/107",
-      "labels": [
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        }
-      ],
-      "body": "**GitHub** https://github.com/mcbrwr/kirby-books\n\n> **A theme for Kirby CMS for creating webbooks** \n",
-      "created_at": "2016-10-16T23:33:36Z",
-      "updated_at": "2018-10-04T09:11:21Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "STORIES Theme",
-      "number": 114,
-      "id": 198475688,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/114",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 331886384,
-          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
-          "name": "Bootstrap",
-          "color": "ffffff",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://sellfy.com/p/yFxL\r\n**Live demo** http://stories.oliviergassies.fr\r\n\r\n> **STORIES enables you to create your own website and easily publish text and pictures.**\r\n\r\n![stories_home_-_2017-01-03_13 28 36](https://cloud.githubusercontent.com/assets/2782385/21609259/48b70f46-d1b9-11e6-9f03-d28a77405af2.png)\r\n",
-      "created_at": "2017-01-03T13:36:03Z",
       "updated_at": "2018-10-04T09:11:21Z"
     },
     {
@@ -3530,6 +3458,78 @@
     },
     {
       "item_type": "themes",
+      "title": "kirby-books",
+      "number": 107,
+      "id": 183300335,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/107",
+      "labels": [
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        }
+      ],
+      "body": "**GitHub** https://github.com/mcbrwr/kirby-books\n\n> **A theme for Kirby CMS for creating webbooks** \n",
+      "created_at": "2016-10-16T23:33:36Z",
+      "updated_at": "2018-10-04T09:11:21Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "STORIES Theme",
+      "number": 114,
+      "id": 198475688,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/114",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://sellfy.com/p/yFxL\r\n**Live demo** http://stories.oliviergassies.fr\r\n\r\n> **STORIES enables you to create your own website and easily publish text and pictures.**\r\n\r\n![stories_home_-_2017-01-03_13 28 36](https://cloud.githubusercontent.com/assets/2782385/21609259/48b70f46-d1b9-11e6-9f03-d28a77405af2.png)\r\n",
+      "created_at": "2017-01-03T13:36:03Z",
+      "updated_at": "2018-10-04T09:11:21Z"
+    },
+    {
+      "item_type": "themes",
       "title": "Amoshop Shopkit Theme for Kirby CMS ",
       "number": 112,
       "id": 196861388,
@@ -3610,25 +3610,25 @@
     },
     {
       "item_type": "themes",
-      "title": "SUMO. Page Builder Theme for Kirby",
-      "number": 82,
-      "id": 160733223,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/82",
+      "title": "CONTINU",
+      "number": 95,
+      "id": 167824750,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/95",
       "labels": [
-        {
-          "id": 331886384,
-          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
-          "name": "Bootstrap",
-          "color": "ffffff",
-          "default": false
-        },
         {
           "id": 335144324,
           "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
           "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
           "name": "Commercial",
           "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331886656,
+          "node_id": "MDU6TGFiZWwzMzE4ODY2NTY=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Foundation",
+          "name": "Foundation",
+          "color": "ffffff",
           "default": false
         },
         {
@@ -3656,8 +3656,60 @@
           "default": false
         }
       ],
-      "body": "**Details** https://gumroad.com/l/zcky\n**Live demo** http://hiweb.fr/sumo\n\n> **SUMO. is the first Page Builder powered theme for Kirby CMS.**\n\n![sumo _-_2016-06-16_19 49 18](https://cloud.githubusercontent.com/assets/2782385/16129114/73364f36-33fb-11e6-9993-5e93bd62fd6c.png)\n",
-      "created_at": "2016-06-16T18:50:53Z",
+      "body": "**Details** https://sellfy.com/p/uAI3\r\n**Live demo** http://continu.oliviergassies.fr\r\n\r\n> **CONTINU is a one-page theme for artist. Artwork will be added to a continuous presentation, sorted by post. And you will find a simple way to managed your content from the administration face of the website.**\r\n\r\n![continu_home_-_2016-07-27_11 40 18](https://cloud.githubusercontent.com/assets/2782385/17172882/566e28a6-53ef-11e6-9dbe-a517e92edb31.png)\r\n",
+      "created_at": "2016-07-27T10:44:54Z",
+      "updated_at": "2018-10-04T09:11:20Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Firby Blog",
+      "number": 99,
+      "id": 177381685,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/99",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** http://www.getkirby-themes.com/themes/firby-blog-theme\n**Live demo** http://fabianschenk.de.cool/firby-themes/blog-theme/\n\n> **Firby Theme is a carefully styled and full responsive Bootstrap blog theme that is perfect for personal or company blogs. This theme features a lot of snippets, templates and plugins for Kirby CMS based websites.**\n\n![firby_theme_home_-_2016-09-16_10 30 59](https://cloud.githubusercontent.com/assets/2782385/18581478/b2c020a6-7bf8-11e6-959a-f6f0a267bb29.png)\n",
+      "created_at": "2016-09-16T09:31:32Z",
       "updated_at": "2018-10-04T09:11:20Z"
     },
     {
@@ -3918,25 +3970,25 @@
     },
     {
       "item_type": "themes",
-      "title": "CONTINU",
-      "number": 95,
-      "id": 167824750,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/95",
+      "title": "SUMO. Page Builder Theme for Kirby",
+      "number": 82,
+      "id": 160733223,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/82",
       "labels": [
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
         {
           "id": 335144324,
           "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
           "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
           "name": "Commercial",
           "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331886656,
-          "node_id": "MDU6TGFiZWwzMzE4ODY2NTY=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Foundation",
-          "name": "Foundation",
-          "color": "ffffff",
           "default": false
         },
         {
@@ -3964,60 +4016,8 @@
           "default": false
         }
       ],
-      "body": "**Details** https://sellfy.com/p/uAI3\r\n**Live demo** http://continu.oliviergassies.fr\r\n\r\n> **CONTINU is a one-page theme for artist. Artwork will be added to a continuous presentation, sorted by post. And you will find a simple way to managed your content from the administration face of the website.**\r\n\r\n![continu_home_-_2016-07-27_11 40 18](https://cloud.githubusercontent.com/assets/2782385/17172882/566e28a6-53ef-11e6-9dbe-a517e92edb31.png)\r\n",
-      "created_at": "2016-07-27T10:44:54Z",
-      "updated_at": "2018-10-04T09:11:20Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Firby Blog",
-      "number": 99,
-      "id": 177381685,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/99",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 331886384,
-          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
-          "name": "Bootstrap",
-          "color": "ffffff",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** http://www.getkirby-themes.com/themes/firby-blog-theme\n**Live demo** http://fabianschenk.de.cool/firby-themes/blog-theme/\n\n> **Firby Theme is a carefully styled and full responsive Bootstrap blog theme that is perfect for personal or company blogs. This theme features a lot of snippets, templates and plugins for Kirby CMS based websites.**\n\n![firby_theme_home_-_2016-09-16_10 30 59](https://cloud.githubusercontent.com/assets/2782385/18581478/b2c020a6-7bf8-11e6-959a-f6f0a267bb29.png)\n",
-      "created_at": "2016-09-16T09:31:32Z",
+      "body": "**Details** https://gumroad.com/l/zcky\n**Live demo** http://hiweb.fr/sumo\n\n> **SUMO. is the first Page Builder powered theme for Kirby CMS.**\n\n![sumo _-_2016-06-16_19 49 18](https://cloud.githubusercontent.com/assets/2782385/16129114/73364f36-33fb-11e6-9993-5e93bd62fd6c.png)\n",
+      "created_at": "2016-06-16T18:50:53Z",
       "updated_at": "2018-10-04T09:11:20Z"
     },
     {
@@ -4110,246 +4110,6 @@
     },
     {
       "item_type": "themes",
-      "title": "White Board Theme",
-      "number": 72,
-      "id": 147277130,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/72",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://gumroad.com/l/VYAuJ#\n**Live demo (basic)** http://kc.konstantin.fr/whiteboard-theme\n**Live demo (black and white)** http://kc.konstantin.fr/whiteboard-theme-2\n**Live demo (colour)** http://kc.konstantin.fr/whiteboard-theme-3\n\n> **White Board is a Theme for the CMS Kirby with a clean and Minimalist presentation.**\n\n![white_board_blog_white_board_theme_for_kirby_-_2016-04-11_00 13 27](https://cloud.githubusercontent.com/assets/2782385/14413701/41c46dbc-ff7a-11e5-9a00-2cdbc5aa37a3.png)\n",
-      "created_at": "2016-04-10T23:15:11Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Eventually",
-      "number": 77,
-      "id": 159538841,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/77",
-      "labels": [
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details & live demo** http://hiweb.fr/eventually\n**Download** https://dl.dropboxusercontent.com/u/5350671/Eventually-Theme.zip\n\n> **A simple template for telling the world when you'll launch your next big thing.**\n\n![eventually_by_html5_up_-_2016-06-10_01 43 26](https://cloud.githubusercontent.com/assets/2782385/15951074/f5ab5ece-2eac-11e6-954f-1c9149be570c.png)\n",
-      "created_at": "2016-06-10T00:47:10Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Zoon",
-      "number": 79,
-      "id": 160073645,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/79",
-      "labels": [
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/Hiweb.Kirby/737375-ZOON.-theme-for-Kirby-2.3\n**Live demo** http://hiweb.fr/zoon\n\n> **ZOON. is a full featured landing page for Kirby CMS.**\n\n![zoon _-_2016-06-14_01 27 50](https://cloud.githubusercontent.com/assets/2782385/16027631/7062f512-31cf-11e6-886a-4f89dbde9bfb.png)\n",
-      "created_at": "2016-06-14T00:30:37Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "folio09 Theme",
-      "number": 68,
-      "id": 146892204,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/68",
-      "labels": [
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/starckio/20699-folio09-for-Kirby-CMS-%282.2.3%29\n**Live demo** **currently unavailable**\n\n> **folio09 is a simple theme for the kirby CMS.**\n",
-      "created_at": "2016-04-08T10:51:59Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "KARDS",
-      "number": 80,
-      "id": 160385477,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/80",
-      "labels": [
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/Hiweb.Kirby/739594-KARDS.-theme-for-Kirby-2.3\n**Live demo** http://hiweb.fr/kards\n\n> **KARDS. is a full featured personal website and portfolio for Kirby CMS.**\n\n![kards _-_2016-06-15_11 05 02](https://cloud.githubusercontent.com/assets/2782385/16076000/39a0add8-32e9-11e6-8026-788f2e56d73e.png)\n",
-      "created_at": "2016-06-15T10:09:01Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Kirby FAQ Theme",
-      "number": 81,
-      "id": 160532444,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/81",
-      "labels": [
-        {
-          "id": 332016116,
-          "node_id": "MDU6TGFiZWwzMzIwMTYxMTY=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Docs",
-          "name": "Docs",
-          "color": "bfd4f2",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://gumroad.com/l/uPQm\n\n> **This is a barebone FAQ solution for KIRBY. It's purpose is mainly to demonstrate how to effectively build a FAQ for your website. You can also use it as-is in a client website for a simple to administrate FAQ.**\n\n**Note from the developer: I haven't set a price for this theme but I've left open the possibility to set the price. You can buy me a coffee for the long coding hours I'm putting into Kirby themes. :)**\n\n![faq](https://cloud.githubusercontent.com/assets/2782385/16098546/81cf663c-334b-11e6-8140-58bf9cf22365.JPG)\n",
-      "created_at": "2016-06-15T21:51:14Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
       "title": "Treviso Theme",
       "number": 67,
       "id": 145285778,
@@ -4398,6 +4158,58 @@
       ],
       "body": "**Details** https://sellfy.com/p/xmdP\n**Live demo** http://www.kirby.acrontum.de/themes/acrontum-treviso-theme\n\n> **Treviso is the perfect solution for representing your team or agency in a clean and stylish way.**\n\n![treviso_theme_home_-_2016-04-01_21 55 17](https://cloud.githubusercontent.com/assets/2782385/14220184/5f5b8fb6-f856-11e5-8812-b0db8208c78e.png)\n",
       "created_at": "2016-04-01T21:10:10Z",
+      "updated_at": "2018-10-04T09:11:19Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "White Board Theme",
+      "number": 72,
+      "id": 147277130,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/72",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://gumroad.com/l/VYAuJ#\n**Live demo (basic)** http://kc.konstantin.fr/whiteboard-theme\n**Live demo (black and white)** http://kc.konstantin.fr/whiteboard-theme-2\n**Live demo (colour)** http://kc.konstantin.fr/whiteboard-theme-3\n\n> **White Board is a Theme for the CMS Kirby with a clean and Minimalist presentation.**\n\n![white_board_blog_white_board_theme_for_kirby_-_2016-04-11_00 13 27](https://cloud.githubusercontent.com/assets/2782385/14413701/41c46dbc-ff7a-11e5-9a00-2cdbc5aa37a3.png)\n",
+      "created_at": "2016-04-10T23:15:11Z",
       "updated_at": "2018-10-04T09:11:19Z"
     },
     {
@@ -4474,83 +4286,11 @@
     },
     {
       "item_type": "themes",
-      "title": "Eventually",
-      "number": 77,
-      "id": 159538841,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/77",
+      "title": "Multiverse Theme",
+      "number": 71,
+      "id": 147110190,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/71",
       "labels": [
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details & live demo** http://hiweb.fr/eventually\n**Download** https://dl.dropboxusercontent.com/u/5350671/Eventually-Theme.zip\n\n> **A simple template for telling the world when you'll launch your next big thing.**\n\n![eventually_by_html5_up_-_2016-06-10_01 43 26](https://cloud.githubusercontent.com/assets/2782385/15951074/f5ab5ece-2eac-11e6-954f-1c9149be570c.png)\n",
-      "created_at": "2016-06-10T00:47:10Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Zoon",
-      "number": 79,
-      "id": 160073645,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/79",
-      "labels": [
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/Hiweb.Kirby/737375-ZOON.-theme-for-Kirby-2.3\n**Live demo** http://hiweb.fr/zoon\n\n> **ZOON. is a full featured landing page for Kirby CMS.**\n\n![zoon _-_2016-06-14_01 27 50](https://cloud.githubusercontent.com/assets/2782385/16027631/7062f512-31cf-11e6-886a-4f89dbde9bfb.png)\n",
-      "created_at": "2016-06-14T00:30:37Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "folio09 Theme",
-      "number": 68,
-      "id": 146892204,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/68",
-      "labels": [
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
         {
           "id": 331885623,
           "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
@@ -4576,96 +4316,16 @@
           "default": false
         }
       ],
-      "body": "**Details** https://creativemarket.com/starckio/20699-folio09-for-Kirby-CMS-%282.2.3%29\n**Live demo** **currently unavailable**\n\n> **folio09 is a simple theme for the kirby CMS.**\n",
-      "created_at": "2016-04-08T10:51:59Z",
+      "body": "**GitHub** https://github.com/nunopress/kirby-themes-multiverse\n**Details** http://www.getkirby-themes.com/themes/multiverse\n**Live demo** http://kirby-themes.nunopress.com/multiverse\n\n> **A slick, one-page gallery design with a fully functional lightbox.**\n\n![multiverse_by_html5_up_and_nunopress_llc_-_2016-04-09_10 10 07](https://cloud.githubusercontent.com/assets/2782385/14402938/70a88df6-fe3b-11e5-8d16-855e5381b477.png)\n",
+      "created_at": "2016-04-09T09:13:03Z",
       "updated_at": "2018-10-04T09:11:19Z"
     },
     {
       "item_type": "themes",
-      "title": "KARDS",
-      "number": 80,
-      "id": 160385477,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/80",
-      "labels": [
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/Hiweb.Kirby/739594-KARDS.-theme-for-Kirby-2.3\n**Live demo** http://hiweb.fr/kards\n\n> **KARDS. is a full featured personal website and portfolio for Kirby CMS.**\n\n![kards _-_2016-06-15_11 05 02](https://cloud.githubusercontent.com/assets/2782385/16076000/39a0add8-32e9-11e6-8026-788f2e56d73e.png)\n",
-      "created_at": "2016-06-15T10:09:01Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Kirby FAQ Theme",
-      "number": 81,
-      "id": 160532444,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/81",
-      "labels": [
-        {
-          "id": 332016116,
-          "node_id": "MDU6TGFiZWwzMzIwMTYxMTY=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Docs",
-          "name": "Docs",
-          "color": "bfd4f2",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://gumroad.com/l/uPQm\n\n> **This is a barebone FAQ solution for KIRBY. It's purpose is mainly to demonstrate how to effectively build a FAQ for your website. You can also use it as-is in a client website for a simple to administrate FAQ.**\n\n**Note from the developer: I haven't set a price for this theme but I've left open the possibility to set the price. You can buy me a coffee for the long coding hours I'm putting into Kirby themes. :)**\n\n![faq](https://cloud.githubusercontent.com/assets/2782385/16098546/81cf663c-334b-11e6-8140-58bf9cf22365.JPG)\n",
-      "created_at": "2016-06-15T21:51:14Z",
-      "updated_at": "2018-10-04T09:11:19Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Flow Theme",
-      "number": 45,
-      "id": 138035816,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/45",
+      "title": "Gmetry",
+      "number": 75,
+      "id": 157298871,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/75",
       "labels": [
         {
           "id": 332016251,
@@ -4692,11 +4352,55 @@
           "default": false
         },
         {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** http://www.getkirby-themes.com/themes/gmetry\n**Live demo** http://webster.lv/geometry_theme/lv\n\n> **For multiple usage website with a lot of features. Easy to use and flexible.**\n\n![home_gmetry_-_2016-05-27_23 02 39](https://cloud.githubusercontent.com/assets/2782385/15622315/76135600-245f-11e6-9a11-0a41cd7034dc.png)\n",
+      "created_at": "2016-05-27T22:07:08Z",
+      "updated_at": "2018-10-04T09:11:19Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Sled Theme",
+      "number": 74,
+      "id": 154603107,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/74",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 332016116,
+          "node_id": "MDU6TGFiZWwzMzIwMTYxMTY=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Docs",
+          "name": "Docs",
+          "color": "bfd4f2",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
           "default": false
         },
         {
@@ -4708,17 +4412,25 @@
           "default": false
         }
       ],
-      "body": "**Details** https://creativemarket.com/starckio/31505-Flow-th%C3%A8me-for-Kirby-2-CMS\n**Live demo** http://t.starck.io/flow\n\n> **Flow is a super simple theme for the kirby CMS.**\n\n![flow-articles-o](https://cloud.githubusercontent.com/assets/2782385/13651976/b3828314-e641-11e5-8f88-130cf0b95613.png)\n",
-      "created_at": "2016-03-03T00:31:12Z",
-      "updated_at": "2018-10-04T09:11:18Z"
+      "body": "**GitHub** https://github.com/lauriiii/sled\n**Live demo** http://liimatta.eu/demo/sled\n\n> **Sled is a blog theme for Kirby CMS. Currently supports two types of content: posts and pages.**\n\n![sled_theme_home_-_2016-05-13_00 23 46](https://cloud.githubusercontent.com/assets/2782385/15233494/09f4c5d6-18a1-11e6-8c73-e8b99acdad80.png)\n",
+      "created_at": "2016-05-12T23:24:43Z",
+      "updated_at": "2018-10-04T09:11:19Z"
     },
     {
       "item_type": "themes",
-      "title": "Vessel Portfolio Theme",
-      "number": 50,
-      "id": 138037812,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/50",
+      "title": "Freelancer",
+      "number": 78,
+      "id": 159689819,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/78",
       "labels": [
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
         {
           "id": 335144324,
           "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
@@ -4752,9 +4464,313 @@
           "default": false
         }
       ],
-      "body": "**Details** http://www.getkirby-themes.com/themes/vessel\n**Live demo** http://vessel.iancox.com\n\n> **Vessel is a highly customizable grid based portfolio theme for Kirby CMS.**\n\n![vessel_home_-_2016-03-09_22 02 25](https://cloud.githubusercontent.com/assets/2782385/13652183/a7a3c41c-e642-11e5-93a3-2925e6be0c8b.png)\n",
-      "created_at": "2016-03-03T00:41:46Z",
-      "updated_at": "2018-10-04T09:11:18Z"
+      "body": "**Details** https://gumroad.com/l/eQYEW#\n**Live demo** http://hiweb.fr/freelancer\n\n> **Freelancer is a full-featured one page theme for Kirby CMS.**\n\n![freelancer _-_2016-06-10_19 02 58](https://cloud.githubusercontent.com/assets/2782385/15973991/1686352e-2f3e-11e6-8676-396c94793575.png)\n",
+      "created_at": "2016-06-10T18:04:39Z",
+      "updated_at": "2018-10-04T09:11:19Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Solid",
+      "number": 76,
+      "id": 159428474,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/76",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://gumroad.com/l/dBtsk#\n**Live Demo** http://hiweb.fr/solid/\n\n> **Solid Kirby Bootstrap Theme is a blacktie.co template fully converted to Kirby.**\n\n![solid _home_-_2016-06-09_15 49 23](https://cloud.githubusercontent.com/assets/2782385/15934117/380c2788-2e5a-11e6-92cf-9bc0874cdab0.png)\n",
+      "created_at": "2016-06-09T14:53:30Z",
+      "updated_at": "2018-10-04T09:11:19Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Multiverse Theme",
+      "number": 71,
+      "id": 147110190,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/71",
+      "labels": [
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**GitHub** https://github.com/nunopress/kirby-themes-multiverse\n**Details** http://www.getkirby-themes.com/themes/multiverse\n**Live demo** http://kirby-themes.nunopress.com/multiverse\n\n> **A slick, one-page gallery design with a fully functional lightbox.**\n\n![multiverse_by_html5_up_and_nunopress_llc_-_2016-04-09_10 10 07](https://cloud.githubusercontent.com/assets/2782385/14402938/70a88df6-fe3b-11e5-8d16-855e5381b477.png)\n",
+      "created_at": "2016-04-09T09:13:03Z",
+      "updated_at": "2018-10-04T09:11:19Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Gmetry",
+      "number": 75,
+      "id": 157298871,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/75",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** http://www.getkirby-themes.com/themes/gmetry\n**Live demo** http://webster.lv/geometry_theme/lv\n\n> **For multiple usage website with a lot of features. Easy to use and flexible.**\n\n![home_gmetry_-_2016-05-27_23 02 39](https://cloud.githubusercontent.com/assets/2782385/15622315/76135600-245f-11e6-9a11-0a41cd7034dc.png)\n",
+      "created_at": "2016-05-27T22:07:08Z",
+      "updated_at": "2018-10-04T09:11:19Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Sled Theme",
+      "number": 74,
+      "id": 154603107,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/74",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 332016116,
+          "node_id": "MDU6TGFiZWwzMzIwMTYxMTY=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Docs",
+          "name": "Docs",
+          "color": "bfd4f2",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**GitHub** https://github.com/lauriiii/sled\n**Live demo** http://liimatta.eu/demo/sled\n\n> **Sled is a blog theme for Kirby CMS. Currently supports two types of content: posts and pages.**\n\n![sled_theme_home_-_2016-05-13_00 23 46](https://cloud.githubusercontent.com/assets/2782385/15233494/09f4c5d6-18a1-11e6-8c73-e8b99acdad80.png)\n",
+      "created_at": "2016-05-12T23:24:43Z",
+      "updated_at": "2018-10-04T09:11:19Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Freelancer",
+      "number": 78,
+      "id": 159689819,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/78",
+      "labels": [
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://gumroad.com/l/eQYEW#\n**Live demo** http://hiweb.fr/freelancer\n\n> **Freelancer is a full-featured one page theme for Kirby CMS.**\n\n![freelancer _-_2016-06-10_19 02 58](https://cloud.githubusercontent.com/assets/2782385/15973991/1686352e-2f3e-11e6-8676-396c94793575.png)\n",
+      "created_at": "2016-06-10T18:04:39Z",
+      "updated_at": "2018-10-04T09:11:19Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Solid",
+      "number": 76,
+      "id": 159428474,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/76",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 331886384,
+          "node_id": "MDU6TGFiZWwzMzE4ODYzODQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Bootstrap",
+          "name": "Bootstrap",
+          "color": "ffffff",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://gumroad.com/l/dBtsk#\n**Live Demo** http://hiweb.fr/solid/\n\n> **Solid Kirby Bootstrap Theme is a blacktie.co template fully converted to Kirby.**\n\n![solid _home_-_2016-06-09_15 49 23](https://cloud.githubusercontent.com/assets/2782385/15934117/380c2788-2e5a-11e6-92cf-9bc0874cdab0.png)\n",
+      "created_at": "2016-06-09T14:53:30Z",
+      "updated_at": "2018-10-04T09:11:19Z"
     },
     {
       "item_type": "themes",
@@ -4950,6 +4966,50 @@
     },
     {
       "item_type": "themes",
+      "title": "P1 Theme",
+      "number": 54,
+      "id": 138040247,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/54",
+      "labels": [
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** http://www.getkirby-themes.com/themes/p1\n**Live demo** http://p1.paulknittel.com\n\n> **A portfolio theme for Kirby CMS.**\n\n![_-_2016-03-09_22 22 01](https://cloud.githubusercontent.com/assets/2782385/13652668/659a78c4-e645-11e5-9926-9c4c43d992fb.png)\n",
+      "created_at": "2016-03-03T00:53:46Z",
+      "updated_at": "2018-10-04T09:11:18Z"
+    },
+    {
+      "item_type": "themes",
       "title": "Creative OnePage Theme",
       "number": 58,
       "id": 138042409,
@@ -4998,50 +5058,6 @@
       ],
       "body": "**Details** http://www.getkirby-themes.com/themes/creative-one-pager-theme\n**Live demo** http://www.kirby.acrontum.de/themes/creative-one-pager\n\n> **A flexible Kirby version of the Creative Bootstrap Theme.**\n\n![kirby_theme_onepager_by_acrontum_home_-_2016-03-09_22 29 32](https://cloud.githubusercontent.com/assets/2782385/13652835/72538ce4-e646-11e5-9f8c-b7d54f8562d0.png)\n",
       "created_at": "2016-03-03T01:04:22Z",
-      "updated_at": "2018-10-04T09:11:18Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "P1 Theme",
-      "number": 54,
-      "id": 138040247,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/54",
-      "labels": [
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** http://www.getkirby-themes.com/themes/p1\n**Live demo** http://p1.paulknittel.com\n\n> **A portfolio theme for Kirby CMS.**\n\n![_-_2016-03-09_22 22 01](https://cloud.githubusercontent.com/assets/2782385/13652668/659a78c4-e645-11e5-9926-9c4c43d992fb.png)\n",
-      "created_at": "2016-03-03T00:53:46Z",
       "updated_at": "2018-10-04T09:11:18Z"
     },
     {
@@ -5258,6 +5274,102 @@
     },
     {
       "item_type": "themes",
+      "title": "Flow Theme",
+      "number": 45,
+      "id": 138035816,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/45",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://creativemarket.com/starckio/31505-Flow-th%C3%A8me-for-Kirby-2-CMS\n**Live demo** http://t.starck.io/flow\n\n> **Flow is a super simple theme for the kirby CMS.**\n\n![flow-articles-o](https://cloud.githubusercontent.com/assets/2782385/13651976/b3828314-e641-11e5-8f88-130cf0b95613.png)\n",
+      "created_at": "2016-03-03T00:31:12Z",
+      "updated_at": "2018-10-04T09:11:18Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Vessel Portfolio Theme",
+      "number": 50,
+      "id": 138037812,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/50",
+      "labels": [
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** http://www.getkirby-themes.com/themes/vessel\n**Live demo** http://vessel.iancox.com\n\n> **Vessel is a highly customizable grid based portfolio theme for Kirby CMS.**\n\n![vessel_home_-_2016-03-09_22 02 25](https://cloud.githubusercontent.com/assets/2782385/13652183/a7a3c41c-e642-11e5-93a3-2925e6be0c8b.png)\n",
+      "created_at": "2016-03-03T00:41:46Z",
+      "updated_at": "2018-10-04T09:11:18Z"
+    },
+    {
+      "item_type": "themes",
       "title": "kirbyBOOK Theme",
       "number": 59,
       "id": 138042854,
@@ -5302,10 +5414,10 @@
     },
     {
       "item_type": "themes",
-      "title": "Natura Theme",
-      "number": 38,
-      "id": 138033029,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/38",
+      "title": "Truva Blog Theme",
+      "number": 19,
+      "id": 136533203,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/19",
       "labels": [
         {
           "id": 332016251,
@@ -5313,14 +5425,6 @@
           "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
           "name": "Blog",
           "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
           "default": false
         },
         {
@@ -5332,11 +5436,11 @@
           "default": false
         },
         {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
+          "id": 332103526,
+          "node_id": "MDU6TGFiZWwzMzIxMDM1MjY=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Material",
+          "name": "Material",
+          "color": "ffffff",
           "default": false
         },
         {
@@ -5348,200 +5452,8 @@
           "default": false
         }
       ],
-      "body": "**Details** https://creativemarket.com/syropian/21151-Natura-Theme-For-Kirby-CMS\n**Live demo** http://natura.syropia.net\n\n> **Natura is a beautiful & content-focused theme for Kirby CMS.**\n\n![natura_theme_-_home_-_2016-03-09_21 41 21](https://cloud.githubusercontent.com/assets/2782385/13651557/c1d9fa34-e63f-11e5-97ca-6c84c81358a0.png)\n",
-      "created_at": "2016-03-03T00:12:25Z",
-      "updated_at": "2018-10-04T09:11:17Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Fotograf Theme",
-      "number": 37,
-      "id": 138032687,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/37",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/mashplan/251875-Fotograf-Kirby-Theme\n**Live demo** http://themes.mashplan.com/kirby/fotograf\n\n> **Fotograf is a clean and minimalistic portfolio theme made for the fantastic Kirby CMS.**\n\n![photographer_christina_hope_home_-_2016-03-09_21 39 29](https://cloud.githubusercontent.com/assets/2782385/13651487/75664b26-e63f-11e5-9774-842d72621889.png)\n",
-      "created_at": "2016-03-03T00:10:10Z",
-      "updated_at": "2018-10-04T09:11:17Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "MNMLST Theme",
-      "number": 42,
-      "id": 138034136,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/42",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/minmlco/93991-MNMLST-Theme\n**Live demo** http://themes.minml.co/mnmlst\n\n> **A minimalist blogging theme with AJAX page loading made specially for Kirby CMS Version 2.**\n\n![mnmlst_home_-_2016-03-09_21 50 10](https://cloud.githubusercontent.com/assets/2782385/13651819/f1375596-e640-11e5-85b8-c2fca9117772.png)\n",
-      "created_at": "2016-03-03T00:20:42Z",
-      "updated_at": "2018-10-04T09:11:17Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Baltrum Theme",
-      "number": 41,
-      "id": 138033925,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/41",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** http://www.getkirby-themes.com/themes/baltrum\n**Live demo** http://baltrum.jd-powered.net\n\n> **Baltrum is a bold and modern, fully responsive tumblog Kirby 2 theme.**\n\n![baltrum_ kirby_cms_2_theme _-_blog_-_2016-03-09_21 48 01](https://cloud.githubusercontent.com/assets/2782385/13651750/a6860c22-e640-11e5-8a9e-e69f8a24c220.png)\n",
-      "created_at": "2016-03-03T00:19:01Z",
-      "updated_at": "2018-10-04T09:11:17Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Magazine Theme",
-      "number": 40,
-      "id": 138033561,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/40",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/11bits/487196-Magazine-Kirby-Theme\n**Live demo** http://demo.11bits.es/magazine\n\n> **Magazine is an elegant and minimalist theme for magazines and blogs.**\n\n![home_magazine_-_2016-03-09_21 46 23](https://cloud.githubusercontent.com/assets/2782385/13651700/63b669a0-e640-11e5-9b8b-bb7971f250f7.png)\n",
-      "created_at": "2016-03-03T00:16:27Z",
+      "body": "**Details** https://gumroad.com/l/truva-kirby\r\n**Live demo** http://truva.aristotheme.com\r\n\r\n> **Truva is a blog theme based on Material Design Lite and adapted for Kirby CMS.**\r\n\r\n![truva](https://cloud.githubusercontent.com/assets/2782385/13650095/e07c1b72-e638-11e5-88db-10e59fcdafdd.png)\r\n",
+      "created_at": "2016-02-25T22:36:39Z",
       "updated_at": "2018-10-04T09:11:17Z"
     },
     {
@@ -5674,94 +5586,6 @@
       ],
       "body": "**Details** https://gumroad.com/l/gorgo-kirby\r\n**Live demo** http://aristotheme.com/gorgo-kirby\r\n\r\n> **Gorgo is a simple yet creative Kirby theme for freelancers, photographers and designers.**\r\n\r\n![gorgo_kirby_cms_portfolio_theme_home_-_2016-03-09_21 22 39](https://cloud.githubusercontent.com/assets/2782385/13650976/14b14b98-e63d-11e5-8691-9ef75a2d72ef.png)\r\n",
       "created_at": "2016-03-02T19:40:17Z",
-      "updated_at": "2018-10-04T09:11:17Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "K-Theme",
-      "number": 39,
-      "id": 138033338,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/39",
-      "labels": [
-        {
-          "id": 335144324,
-          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
-          "name": "Commercial",
-          "color": "5319e7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332017982,
-          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
-          "name": "Portfolio",
-          "color": "d4c5f9",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://creativemarket.com/11bits/35789-K-theme-for-Kirby-2-CMS\n**Live demo** http://demo.11bits.es/k-theme\n\n> **K-Theme is a one page portfolio theme for Kirby 2 CMS.**\n\n![k-theme_-_2016-03-09_21 44 12](https://cloud.githubusercontent.com/assets/2782385/13651639/184f0760-e640-11e5-853e-5e83d004b675.png)\n",
-      "created_at": "2016-03-03T00:14:40Z",
-      "updated_at": "2018-10-04T09:11:17Z"
-    },
-    {
-      "item_type": "themes",
-      "title": "Truva Blog Theme",
-      "number": 19,
-      "id": 136533203,
-      "html_url": "https://github.com/wachilt/kirby-themes/issues/19",
-      "labels": [
-        {
-          "id": 332016251,
-          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
-          "name": "Blog",
-          "color": "fad8c7",
-          "default": false
-        },
-        {
-          "id": 331885623,
-          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
-          "name": "Kirby 2 Theme",
-          "color": "f60000",
-          "default": false
-        },
-        {
-          "id": 332103526,
-          "node_id": "MDU6TGFiZWwzMzIxMDM1MjY=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Material",
-          "name": "Material",
-          "color": "ffffff",
-          "default": false
-        },
-        {
-          "id": 338350890,
-          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
-          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
-          "name": "Screenshot",
-          "color": "207de5",
-          "default": false
-        }
-      ],
-      "body": "**Details** https://gumroad.com/l/truva-kirby\r\n**Live demo** http://truva.aristotheme.com\r\n\r\n> **Truva is a blog theme based on Material Design Lite and adapted for Kirby CMS.**\r\n\r\n![truva](https://cloud.githubusercontent.com/assets/2782385/13650095/e07c1b72-e638-11e5-88db-10e59fcdafdd.png)\r\n",
-      "created_at": "2016-02-25T22:36:39Z",
       "updated_at": "2018-10-04T09:11:17Z"
     },
     {
@@ -6146,6 +5970,294 @@
       ],
       "body": "**Details** https://creativemarket.com/shaundona/203751-MANMADE-Kirby-2-theme\n**Live demo** http://www.shaundona.com/manmade\n\n> **A fully responsive theme with branding options.**\n\n![shaundona-_home_-_2016-03-09_21 36 27](https://cloud.githubusercontent.com/assets/2782385/13651392/07ae9750-e63f-11e5-833e-9d5abcb048b7.png)\n",
       "created_at": "2016-03-03T00:04:45Z",
+      "updated_at": "2018-10-04T09:11:17Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "K-Theme",
+      "number": 39,
+      "id": 138033338,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/39",
+      "labels": [
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://creativemarket.com/11bits/35789-K-theme-for-Kirby-2-CMS\n**Live demo** http://demo.11bits.es/k-theme\n\n> **K-Theme is a one page portfolio theme for Kirby 2 CMS.**\n\n![k-theme_-_2016-03-09_21 44 12](https://cloud.githubusercontent.com/assets/2782385/13651639/184f0760-e640-11e5-853e-5e83d004b675.png)\n",
+      "created_at": "2016-03-03T00:14:40Z",
+      "updated_at": "2018-10-04T09:11:17Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Natura Theme",
+      "number": 38,
+      "id": 138033029,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/38",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://creativemarket.com/syropian/21151-Natura-Theme-For-Kirby-CMS\n**Live demo** http://natura.syropia.net\n\n> **Natura is a beautiful & content-focused theme for Kirby CMS.**\n\n![natura_theme_-_home_-_2016-03-09_21 41 21](https://cloud.githubusercontent.com/assets/2782385/13651557/c1d9fa34-e63f-11e5-97ca-6c84c81358a0.png)\n",
+      "created_at": "2016-03-03T00:12:25Z",
+      "updated_at": "2018-10-04T09:11:17Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Fotograf Theme",
+      "number": 37,
+      "id": 138032687,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/37",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://creativemarket.com/mashplan/251875-Fotograf-Kirby-Theme\n**Live demo** http://themes.mashplan.com/kirby/fotograf\n\n> **Fotograf is a clean and minimalistic portfolio theme made for the fantastic Kirby CMS.**\n\n![photographer_christina_hope_home_-_2016-03-09_21 39 29](https://cloud.githubusercontent.com/assets/2782385/13651487/75664b26-e63f-11e5-9774-842d72621889.png)\n",
+      "created_at": "2016-03-03T00:10:10Z",
+      "updated_at": "2018-10-04T09:11:17Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "MNMLST Theme",
+      "number": 42,
+      "id": 138034136,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/42",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://creativemarket.com/minmlco/93991-MNMLST-Theme\n**Live demo** http://themes.minml.co/mnmlst\n\n> **A minimalist blogging theme with AJAX page loading made specially for Kirby CMS Version 2.**\n\n![mnmlst_home_-_2016-03-09_21 50 10](https://cloud.githubusercontent.com/assets/2782385/13651819/f1375596-e640-11e5-85b8-c2fca9117772.png)\n",
+      "created_at": "2016-03-03T00:20:42Z",
+      "updated_at": "2018-10-04T09:11:17Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Baltrum Theme",
+      "number": 41,
+      "id": 138033925,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/41",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** http://www.getkirby-themes.com/themes/baltrum\n**Live demo** http://baltrum.jd-powered.net\n\n> **Baltrum is a bold and modern, fully responsive tumblog Kirby 2 theme.**\n\n![baltrum_ kirby_cms_2_theme _-_blog_-_2016-03-09_21 48 01](https://cloud.githubusercontent.com/assets/2782385/13651750/a6860c22-e640-11e5-8a9e-e69f8a24c220.png)\n",
+      "created_at": "2016-03-03T00:19:01Z",
+      "updated_at": "2018-10-04T09:11:17Z"
+    },
+    {
+      "item_type": "themes",
+      "title": "Magazine Theme",
+      "number": 40,
+      "id": 138033561,
+      "html_url": "https://github.com/wachilt/kirby-themes/issues/40",
+      "labels": [
+        {
+          "id": 332016251,
+          "node_id": "MDU6TGFiZWwzMzIwMTYyNTE=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Blog",
+          "name": "Blog",
+          "color": "fad8c7",
+          "default": false
+        },
+        {
+          "id": 335144324,
+          "node_id": "MDU6TGFiZWwzMzUxNDQzMjQ=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Commercial",
+          "name": "Commercial",
+          "color": "5319e7",
+          "default": false
+        },
+        {
+          "id": 331885623,
+          "node_id": "MDU6TGFiZWwzMzE4ODU2MjM=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Kirby%202%20Theme",
+          "name": "Kirby 2 Theme",
+          "color": "f60000",
+          "default": false
+        },
+        {
+          "id": 332017982,
+          "node_id": "MDU6TGFiZWwzMzIwMTc5ODI=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Portfolio",
+          "name": "Portfolio",
+          "color": "d4c5f9",
+          "default": false
+        },
+        {
+          "id": 338350890,
+          "node_id": "MDU6TGFiZWwzMzgzNTA4OTA=",
+          "url": "https://api.github.com/repos/wachilt/kirby-themes/labels/Screenshot",
+          "name": "Screenshot",
+          "color": "207de5",
+          "default": false
+        }
+      ],
+      "body": "**Details** https://creativemarket.com/11bits/487196-Magazine-Kirby-Theme\n**Live demo** http://demo.11bits.es/magazine\n\n> **Magazine is an elegant and minimalist theme for magazines and blogs.**\n\n![home_magazine_-_2016-03-09_21 46 23](https://cloud.githubusercontent.com/assets/2782385/13651700/63b669a0-e640-11e5-9b8b-bb7971f250f7.png)\n",
+      "created_at": "2016-03-03T00:16:27Z",
       "updated_at": "2018-10-04T09:11:17Z"
     },
     {
@@ -26421,5 +26533,5 @@
       "updated_at": "2016-02-22T08:17:20Z"
     }
   ],
-  "last_updated": 1552755614424
+  "last_updated": "2019-03-16T17:06:54.618Z"
 }

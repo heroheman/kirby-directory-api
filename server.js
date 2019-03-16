@@ -14,7 +14,7 @@ const port = 63473;
 
 const server = app.listen(port, () => {
   console.log('Express server ready to serve. Port: ' + port + '. Bye.');
-  runCronFetch();
+  // runCronFetch();
 });
 
 server.timeout = 1000 * 60 * 10; // 10 minutes
@@ -26,8 +26,19 @@ app.use(function (req, res, next) {
 });
 
 app.get('/all', (req, res) => {
-  const themes = db.get('themes');
   res.send(db);
+});
+
+app.get('/id/:issueId', (req, res) => {
+  const issueId = parseInt(req.params.issueId);
+  const resThemes = db.get('themes').find({id: issueId}).value();
+  const resPlugins = db.get('plugins').find({id: issueId}).value();
+  res.send(resThemes || resPlugins);
+});
+
+app.get('/plugin/:issueId', (req, res) => {
+  const issueId = req.params.issueId;
+  res.send(issueId);
 });
 
 app.get('/themes', (req, res) => {

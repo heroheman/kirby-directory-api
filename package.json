@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
     "esm": "^3.2.18",
     "express": "^4.16.4",
     "fs": "0.0.1-security",

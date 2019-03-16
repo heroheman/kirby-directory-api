@@ -52,7 +52,11 @@ app.get('/plugins', (req, res) => {
   res.send(plugins);
 });
 
+app.get('/lastupdated', (req, res) => {
+  res.send(db.get('last_updated'));
+});
+
 app.get('/resetDatabase', (req, res) => {
-  runCronFetch()
-  res.send('reset it. btw. this should be removed')
+  runCronFetch();
+  res.send('Done. Check /lastupdated');
 });

@@ -3,6 +3,8 @@ const helmet = require('helmet');
 const cors = require('cors');
 const fs = require('fs');
 import db from './lib/db';
+import './lib/cron';
+
 
 import { runCronFetch } from './lib/getItems.js';
 

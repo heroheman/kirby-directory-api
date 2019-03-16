@@ -2,6 +2,11 @@ const express = require('express');
 const helmet = require('helmet');
 const cors = require('cors');
 const fs = require('fs');
+import db from './lib/db';
+import './lib/cron';
+
+
+import { runCronFetch } from './lib/getItems.js';
 
 const app = express();
 app.use(helmet());
@@ -17,19 +22,41 @@ server.timeout = 1000 * 60 * 10; // 10 minutes
 
 // Use middleware to set the default Content-Type
 app.use(function (req, res, next) {
-    res.header('Content-Type', 'application/json');
-    next();
+  res.header('Content-Type', 'application/json');
+  next();
+});
+
+app.get('/all', (req, res) => {
+  res.send(db);
+});
+
+app.get('/id/:issueId', (req, res) => {
+  const issueId = parseInt(req.params.issueId);
+  const resThemes = db.get('themes').find({id: issueId}).value();
+  const resPlugins = db.get('plugins').find({id: issueId}).value();
+  res.send(resThemes || resPlugins);
+});
+
+app.get('/plugin/:issueId', (req, res) => {
+  const issueId = req.params.issueId;
+  res.send(issueId);
 });
 
 app.get('/themes', (req, res) => {
-    fs.readFile('./json/themes.json', 'utf8', (err, data) => {
-        res.send(data)
-    })
-})
+  const themes = db.get('themes');
+  res.send(themes);
+});
 
 app.get('/plugins', (req, res) => {
-    fs.readFile('./json/plugins.json', 'utf8', (err, data) => {
-        res.send(data)
-    })
-})
+  const plugins = db.get('plugins');
+  res.send(plugins);
+});
 
+app.get('/lastupdated', (req, res) => {
+  res.send(db.get('last_updated'));
+});
+
+app.get('/resetDatabase', (req, res) => {
+  runCronFetch();
+  res.send('Done. Check /lastupdated');
+});

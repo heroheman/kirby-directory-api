@@ -25,19 +25,17 @@ app.use(function (req, res, next) {
   next();
 });
 
-app.get('/themesTest', (req, res) => {
+app.get('/all', (req, res) => {
+  const themes = db.get('themes');
+  res.send(db);
+});
+
+app.get('/themes', (req, res) => {
   const themes = db.get('themes');
   res.send(themes);
 });
 
-app.get('/themes', (req, res) => {
-  fs.readFile('./json/themes.json', 'utf8', (err, data) => {
-    res.send(data);
-  });
-});
-
 app.get('/plugins', (req, res) => {
-  fs.readFile('./json/plugins.json', 'utf8', (err, data) => {
-    res.send(data);
-  });
+  const plugins = db.get('plugins');
+  res.send(plugins);
 });

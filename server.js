@@ -27,14 +27,14 @@ app.use(function (req, res, next) {
 });
 
 app.get('/all', (req, res) => {
-  res.send(db);
+  const items = db.get('items');
+  res.send(items);
 });
 
 app.get('/id/:issueId', (req, res) => {
   const issueId = parseInt(req.params.issueId);
-  const resThemes = db.get('themes').find({id: issueId}).value();
-  const resPlugins = db.get('plugins').find({id: issueId}).value();
-  res.send(resThemes || resPlugins);
+  const result = db.get('items').find({id: issueId}).value();
+  res.send(result);
 });
 
 app.get('/plugin/:issueId', (req, res) => {
@@ -43,12 +43,12 @@ app.get('/plugin/:issueId', (req, res) => {
 });
 
 app.get('/themes', (req, res) => {
-  const themes = db.get('themes');
+  const themes = db.get('items').filter({item_type: 'themes'});
   res.send(themes);
 });
 
 app.get('/plugins', (req, res) => {
-  const plugins = db.get('plugins');
+  const plugins = db.get('items').filter({item_type: 'plugins'});
   res.send(plugins);
 });
 
